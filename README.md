@@ -1,9 +1,7 @@
 
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hii!+Welcome+to+my+github+profile+👋)](https://git.io/typing-svg) 
+  # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hii!+Welcome+to+my+github+profile+👋)](https://git.io/typing-svg) 
 
-#
-
-<h4>Exploring the world of software development through hands-on projects. Seeking opportunities to collaborate and build innovative solutions.</h4>
+<h4 align="center">Exploring the world of software development through hands-on projects. Seeking opportunities to collaborate and build innovative solutions.</h4>
 
 
 <h3 align="left">Connect with me:</h3>
